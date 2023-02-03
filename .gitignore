@@ -131,3 +131,8 @@ dmypy.json
 # Custom
 *notes.txt
 .DS_Store
+my_awesome_opus_books_model
+pt_save_pretrained/
+tf_save_pretrained/
+trainer/
+
