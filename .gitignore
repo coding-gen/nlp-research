@@ -130,6 +130,7 @@ dmypy.json
 
 # Custom
 *notes.txt
+*notes*
 .DS_Store
 my_awesome_opus_books_model
 pt_save_pretrained/
