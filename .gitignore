@@ -129,11 +129,10 @@ dmypy.json
 .pyre/
 
 # Custom
-*notes.txt
 *notes*
 .DS_Store
 my_awesome_opus_books_model
 pt_save_pretrained/
 tf_save_pretrained/
 trainer/
-
+*binary_text_classification_model*
